@@ -1,2 +1,3 @@
 First line at file3.txt
 Second line at file3.txt
+Third line at file3.txt
